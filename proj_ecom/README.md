@@ -20,11 +20,4 @@
 - price — цена товара.
 
 ## Используемые библиотеки
-- pandas 
-- numpy 
-- seaborn 
-- datetime 
-- scipy  
-- matplotlib 
-- re
-- plotly 
+*pandas* , *numpy*, *seaborn*, *datetime*, *scipy*, *matplotlib*, *re*, *plotly*

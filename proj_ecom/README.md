@@ -1,4 +1,4 @@
-# Описания проекта нтернет-магазина товаров для дома
+# Описания проекта интернет-магазина товаров для дома
 
 ## Задача
 
@@ -20,11 +20,11 @@
 - price — цена товара.
 
 ## Используемые библиотеки
-- *pandas*
-- *numpy*
-- *seaborn*
-- *datetime*
-- *scipy*
-- *matplotlib*
-- *re*
-- *plotly*
+- pandas 
+- numpy 
+- seaborn 
+- datetime 
+- scipy  
+- matplotlib 
+- re
+- plotly 
